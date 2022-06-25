@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mani Movassagh",
 	"description": "This is a freecodecamp project challenge",
+	"keywords": [ "freecodecamp", "related", "words" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
